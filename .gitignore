@@ -1,0 +1,15 @@
+Dependencies
+
+pycache/
+*.pyc
+venv/
+.venv/
+
+Environment Variables & Secrets
+
+.env
+.flaskenv
+
+Log files
+
+*.log
